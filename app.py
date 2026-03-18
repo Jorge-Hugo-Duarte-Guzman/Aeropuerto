@@ -52,7 +52,7 @@ st.markdown(
 
 #********* VISUALIZACION DE LOS DATOS *********
 st.image('encabezado.png', use_container_width=True)
-st.title('Datos Operaciones')
+st.title('- Datos Operaciones -')
 
 with st.container(border=True):
     col1, col2, col3 = st.columns(3)
